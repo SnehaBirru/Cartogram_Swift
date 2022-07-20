@@ -3,4 +3,8 @@ public struct Cartogram_Swift {
 
     public init() {
     }
+    
+    public func HelloToYou() -> String{
+        return "Hello to you!!!!!"
+    }
 }
